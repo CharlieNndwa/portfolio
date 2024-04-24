@@ -43,7 +43,7 @@ const projectsData = [
   {
     id: 5,
     title: "Apple-Clone Website",
-    description: "Apple Website",
+    description: "I coded a Apple Website using React and Three.js",
     image: "/images/projects/apple.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/CharlieNndwa/apple-demo",
@@ -79,7 +79,7 @@ const projectsData = [
   {
     id: 9,
     title: "Nike Website",
-    description: "I coded a Nike clone website using Javasccript",
+    description: "I coded a Nike clone website using Javasccipt",
     image: "/images/projects/nike.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/CharlieNndwa/nike-e-commerce",
