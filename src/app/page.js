@@ -5,6 +5,7 @@ import AboutSide from "./components/AboutSide";
 import ProjectsSide from "./components/ProjectsSide";
 
 import Footer from "./components/Footer";
+import EmailSection from "./components/EmailSection";
 
 
 export default function Home() {
@@ -16,7 +17,7 @@ export default function Home() {
       
         <AboutSide />
         <ProjectsSide/>
-      
+        <EmailSection/>
       </div>
       <Footer />
     </main>
